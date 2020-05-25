@@ -2,6 +2,4 @@ name: cte
 channels:
   - conda-forge
 dependencies:
-  - plotly plotly
-  - anaconda pandas
-  - anaconda numpy
+  - plotly
