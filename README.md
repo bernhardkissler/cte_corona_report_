@@ -7,3 +7,7 @@ The name of the most current version of the notebook ends on "master". The other
 To launch an interactive version of the current version of the notebook launch it on binder with the link below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bernhardkissler/cte_corona_report_/master?filepath=Models%20and%20Graphs%20master.ipynb)
+
+
+A companion app for the report can also be found here:
+https://ctecorona.herokuapp.com/
